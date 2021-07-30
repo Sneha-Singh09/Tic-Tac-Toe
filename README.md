@@ -1,3 +1,7 @@
-# Tic-Tac-Toe GUI
-##Play against a friend or Computer
--This gui is implemented using java language
+# Tic-Tac-Toe       
+
+- This game is implemented using Java language
+- It has 2 modes:
+	- Play against Computer
+	- Play against a friend
+
